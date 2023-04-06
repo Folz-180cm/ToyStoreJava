@@ -1,0 +1,15 @@
+Toy id: 1
+Toy name: Teddy Bear
+Toy quantity: 9
+Toy weight: 100
+
+Toy id: 2
+Toy name: Toy Car
+Toy quantity: 4
+Toy weight: 50
+
+Toy id: 3
+Toy name: Doll
+Toy quantity: 7
+Toy weight: 80
+
